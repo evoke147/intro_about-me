@@ -1,0 +1,15 @@
+const learner = {
+	name: 'Geet Sahu',
+	Intrested.in: Programing,
+	skills_learnt_yet : [beginner_c , beginner_python]
+	currently_Learning: c,
+	hard_Worker: true,
+	quick_Learner: true,
+	problem_Solver: true,
+	teachable: true,
+	   return(
+		this.FunToWorkWith &&
+		this.EasierToTeach >=
+	      );
+       };	
+};
