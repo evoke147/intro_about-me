@@ -1,2 +1,2 @@
 # intro_about-me
- just once
+read Aboutme.txt
