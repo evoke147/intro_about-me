@@ -9,7 +9,7 @@ const learner = {
 	teachable: true,
 	   return(
 		this.FunToWorkWith &&
-		this.EasierToTeach >=
+		this.EasierToTeach );
 	      );
        };	
 };
